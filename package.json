@@ -1,15 +1,14 @@
 {
-  "name": "svelte-infinite-scroll",
+  "name": "sveltekit_scroll_infinite",
   "version": "2.0.1",
   "description": "Infinite Scroll Component to Svelte",
-  "repository": "https://github.com/andrelmlins/svelte-infinite-scroll",
-  "author": "André Lins <andrelucas01@hotmail.com> (https://andrelmlins.github.io/)",
+  "repository": "https://github.com/0x088730/sveltekit_scroll_infinite",
+  "author": "André Lins <royalsceptre88@gmail.com> (https://ball-making.pages.dev)",
   "license": "MIT",
   "svelte": "dist/InfiniteScroll.svelte",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "homepage": "https://svelte-infinite-scroll.netlify.com/",
   "files": [
     "dist"
   ],
@@ -47,7 +46,7 @@
     "coverage": "npm run test --coverage"
   },
   "bugs": {
-    "url": "https://github.com/andrelmlins/svelte-infinite-scroll/issues"
+    "url": "https://github.com/andrelmlins/sveltekit_scroll_infinite/issues"
   },
   "jest": {
     "setupFilesAfterEnv": [
